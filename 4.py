@@ -1,0 +1,12 @@
+dist=[21,"Sreedhar",29,"Hello"]
+print(dist)
+dist.append(90)
+print(dist)
+dist.insert(1,23)
+print(dist)
+dist.reverse()
+print(dist)
+dist.count(0)
+print(dist)
+dist.clear()
+print(dist)
